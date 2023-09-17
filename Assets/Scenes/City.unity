@@ -151,6 +151,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
 --- !u!4 &103355 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 861c4fd7ce03a9a4595202ac831ac824,
@@ -163,13 +164,19 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 202985104}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
 --- !u!1001 &21759260
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -2909,7 +2916,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -3372,7 +3383,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -5135,7 +5150,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -6896,7 +6915,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -7359,7 +7382,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -8367,7 +8394,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -10673,7 +10704,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -13547,7 +13582,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1832408352}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 36fa8ba913e8877469c2ab2bb8b69e1a,
         type: 3}
@@ -13762,7 +13801,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -14734,12 +14777,15 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
 --- !u!4 &716146523 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 36fa8ba913e8877469c2ab2bb8b69e1a,
     type: 3}
   m_PrefabInstance: {fileID: 685876053}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
 --- !u!1 &721335244
 GameObject:
   m_ObjectHideFlags: 0
@@ -15466,6 +15512,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
 --- !u!4 &789339648 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c2f00cd42a4253948a9e667d42e69f6a,
@@ -15478,6 +15525,8 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1364998175}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
 --- !u!1 &806969375 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3266787818958787817, guid: bc7d62cf83e82b1429ec6372ba541c42,
@@ -15512,7 +15561,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1832408352}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: -9108961469770637547, guid: aec95087ae0c98a47bd373d4ed91b4e8,
         type: 3}
@@ -16920,7 +16973,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1832408352}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 757cb73e5c30c3746a8e4264d9a011b5,
         type: 3}
@@ -17323,7 +17380,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1832408352}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: de1ce5d7dc8255746a48ef0f6388ae1e,
         type: 3}
@@ -17768,7 +17829,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -18258,12 +18323,15 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
 --- !u!4 &927617959 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: de1ce5d7dc8255746a48ef0f6388ae1e,
     type: 3}
   m_PrefabInstance: {fileID: 875549424}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
 --- !u!1 &937693543 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5202577714698758084, guid: 04b66b033366fd04ebb5d129a6d3fb94,
@@ -18313,7 +18381,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -18787,7 +18859,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -19592,7 +19668,7 @@ MonoBehaviour:
     m_Bits: 65
   stopNaNPropagation: 1
   finalBlitToCameraTarget: 0
-  antialiasingMode: 1
+  antialiasingMode: 0
   temporalAntialiasing:
     jitterSpread: 0.75
     sharpness: 0.25
@@ -20049,7 +20125,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -22148,7 +22228,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -22814,7 +22898,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -24452,7 +24540,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -24915,7 +25007,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -25801,7 +25897,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -26264,7 +26364,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1832408352}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: c2f00cd42a4253948a9e667d42e69f6a,
         type: 3}
@@ -26881,7 +26985,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -27859,6 +27967,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
 --- !u!4 &1301230067 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 757cb73e5c30c3746a8e4264d9a011b5,
@@ -27877,6 +27986,8 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 760583215}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
 --- !u!1 &1306056322 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 04b66b033366fd04ebb5d129a6d3fb94,
@@ -28384,7 +28495,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -30488,7 +30603,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -32247,7 +32366,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -32833,7 +32956,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -33827,7 +33954,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -35689,7 +35820,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -36315,7 +36450,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -37409,7 +37548,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -38783,7 +38926,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -39810,7 +39957,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -40684,7 +40835,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -42426,7 +42581,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -43187,7 +43346,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}
@@ -45382,7 +45545,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1832408352}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 861c4fd7ce03a9a4595202ac831ac824,
         type: 3}
@@ -46853,7 +47020,11 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< Updated upstream:Assets/Scenes/City.unity
     m_TransformParent: {fileID: 1418228703}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> Stashed changes:Assets/Scenes/SampleScene.unity
     m_Modifications:
     - target: {fileID: 759250166004824965, guid: e1abcde7b9e01b24c96aa17e03b93589,
         type: 3}

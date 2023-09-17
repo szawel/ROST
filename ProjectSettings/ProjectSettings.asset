@@ -719,7 +719,10 @@ PlayerSettings:
     Android: UNITY_POST_PROCESSING_STACK_V2
     Bratwurst: UNITY_POST_PROCESSING_STACK_V2
     EmbeddedLinux: UNITY_POST_PROCESSING_STACK_V2
+<<<<<<< Updated upstream
     GameCoreScarlett: UNITY_POST_PROCESSING_STACK_V2
+=======
+>>>>>>> Stashed changes
     GameCoreXboxOne: UNITY_POST_PROCESSING_STACK_V2
     LinuxHeadlessSimulation: UNITY_POST_PROCESSING_STACK_V2
     Nintendo Switch: UNITY_POST_PROCESSING_STACK_V2
@@ -741,6 +744,10 @@ PlayerSettings:
   il2cppCodeGeneration: {}
   managedStrippingLevel:
     Android: 1
+<<<<<<< Updated upstream
+=======
+    Bratwurst: 1
+>>>>>>> Stashed changes
     EmbeddedLinux: 1
     GameCoreScarlett: 1
     GameCoreXboxOne: 1
